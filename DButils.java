@@ -1,2 +1,2 @@
 Hello this file contains database related code..
-having some utils for connection
+having some utilties for connection
